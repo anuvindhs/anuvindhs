@@ -4,7 +4,7 @@
 <img width=”200" height=”200" src=./assets/banner5.gif alt=”my banner”>
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=anuvindhs)  ![Website](https://img.shields.io/website?label=Community&up_message=ictpro.co.nz&url=https%3A%2F%2Fictpro.co.nz)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=anuvindhs)  [![Website](https://img.shields.io/website?label=Community&up_message=ictpro.co.nz&url=https%3A%2F%2Fictpro.co.nz)](https://ictpro.co.nz)
 
 ### Hi there 👋
 I **love** nerding out about Cloud Computing, so don't hesitate to reach out!</br>
@@ -21,15 +21,11 @@ I **love** nerding out about Cloud Computing, so don't hesitate to reach out!</b
 #### 📘 Latest Blog posts
 --------
 <!-- BLOG-POST-LIST:START -->
-- [Hub for log4j vulnerability based information CVE-2021-44228 &lpar;how to&rpar;](https://ictpro.co.nz/hub-for-log4j-vulnerability-based-information-cve-2021-44228-how-to/?utm_source=rss&utm_medium=rss&utm_campaign=hub-for-log4j-vulnerability-based-information-cve-2021-44228-how-to)
-- [How to Send AWS Notifications &lpar;AWS SNS&rpar; to Microsoft Teams​](https://ictpro.co.nz/how-to-send-aws-notifications-aws-sns-to-microsoft-teams/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-send-aws-notifications-aws-sns-to-microsoft-teams)
-- [An Intro to Amazon Simple Notification Service &lpar;SNS&rpar;](https://ictpro.co.nz/an-intro-to-amazon-simple-notification-service-sns/?utm_source=rss&utm_medium=rss&utm_campaign=an-intro-to-amazon-simple-notification-service-sns)
-- [Introduction to AWS Config](https://ictpro.co.nz/introduction-to-aws-config/?utm_source=rss&utm_medium=rss&utm_campaign=introduction-to-aws-config)
-- [Screen to Saddle](https://ictpro.co.nz/screen-to-saddle/?utm_source=rss&utm_medium=rss&utm_campaign=screen-to-saddle)
 <!-- BLOG-POST-LIST:END -->
 
+--------------
 
-![Anuvindhs Github Status](https://github-readme-stats.vercel.app/api?username=anuvindhs&hide=contribs,prs&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuvindhs&layout=compact&theme=dark)](https://github.com/anuvindhs)
+![Anuvindhs Github Status](https://github-readme-stats.vercel.app/api?username=anuvindhs&hide=contribs,prs&show_icons=true&theme=dar) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuvindhs&layout=compact&theme=dar)](https://github.com/anuvindhs)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuvindhs&" alt="anuvindhs" /></p>
 
