@@ -4,14 +4,12 @@
 <img width=”200" height=”200" src=./assets/banner5.gif alt=”my banner”>
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=anuvindhs) ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=anuvindhs&color=00cf00)  ![Website](https://img.shields.io/website?label=Community&up_message=ictpro.co.nz&url=https%3A%2F%2Fictpro.co.nz)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=anuvindhs)  ![Website](https://img.shields.io/website?label=Community&up_message=ictpro.co.nz&url=https%3A%2F%2Fictpro.co.nz)
 
 ### Hi there 👋
-I **love** nerding out about Cloud Computing, so don't hesitate to reach out!
-</br>
-
-💬 Ask me about Cloud Computing , DevOPS, Cyber Security
-📫 How to reach me : [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40anuvindhs)](https://twitter.com/anuvindhs)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://whttps//www.linkedin.com/in/anuvindhs)
+I **love** nerding out about Cloud Computing, so don't hesitate to reach out!</br>
+💬 Ask me about Cloud Computing , DevOPS, Cyber Security </br>
+📫 Reach me on: [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anuvindhs)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://whttps//www.linkedin.com/in/anuvindhs)
 </br>
 
 
@@ -26,12 +24,7 @@ I **love** nerding out about Cloud Computing, so don't hesitate to reach out!
 <!-- BLOG-POST-LIST:END -->
 
 
-
-------
-
 ![Anuvindhs Github Status](https://github-readme-stats.vercel.app/api?username=anuvindhs&hide=contribs,prs&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuvindhs&layout=compact&theme=dark)](https://github.com/anuvindhs)
 
---------
-#### 📘 Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuvindhs&" alt="anuvindhs" /></p>
+
