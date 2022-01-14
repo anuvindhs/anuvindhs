@@ -31,9 +31,6 @@ I **love** nerding out about Cloud Computing, so don't hesitate to reach out!
 
 ![Anuvindhs Github Status](https://github-readme-stats.vercel.app/api?username=anuvindhs&hide=contribs,prs&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuvindhs&layout=compact&theme=dark)](https://github.com/anuvindhs)
 
-<<<<<<< HEAD
-
-=======
 --------
 #### 📘 Blog posts
 <!-- BLOG-POST-LIST:START -->
