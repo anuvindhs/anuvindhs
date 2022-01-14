@@ -29,9 +29,15 @@ I **love** nerding out about Cloud Computing, so don't hesitate to reach out!</b
 - [Screen to Saddle](https://ictpro.co.nz/screen-to-saddle/?utm_source=rss&utm_medium=rss&utm_campaign=screen-to-saddle)
 <!-- BLOG-POST-LIST:END -->
 
---------------
 
-![Anuvindhs Github Status](https://github-readme-stats.vercel.app/api?username=anuvindhs&hide=contribs,prs&show_icons=true&theme=dar) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuvindhs&layout=compact&theme=dar)](https://github.com/anuvindhs)
+#### 📝 Github Status
+--------------
+[![anuvindh's github trophy](https://github-profile-trophy.vercel.app/?username=anuvindhs&row=1)](https://github.com/anuvindhs/)
+
+![Anuvindhs Github Status](https://github-readme-stats.vercel.app/api?username=anuvindhs&hide=contribs,prs&show_icons=true&theme=dar)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuvindhs&layout=compact&theme=dar)](https://github.com/anuvindhs)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuvindhs&" alt="anuvindhs" /></p>
+
 
