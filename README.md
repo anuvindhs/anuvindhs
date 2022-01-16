@@ -25,7 +25,7 @@ I **love** nerding out about Cloud Computing, so don't hesitate to reach out!</b
 <!-- BLOG-POST-LIST:END --> 
 ### 📟Tweets
 ----
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=anuvindhs)](https://github.com/gazf/github-readme-twitter) 
+<p><a href="https://twitter.com/anuvindhs"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=anuvindhs&amp;layout=wide" alt="github-readme-twitter"></a></p>
 
 
 
