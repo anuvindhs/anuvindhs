@@ -22,7 +22,13 @@ I **love** nerding out about Cloud Computing, so don't hesitate to reach out!</b
 
 | 📘 Latest Blog posts  | 📟Tweets  |
 | ------------ | ------------ |
-|<!-- BLOG-POST-LIST:START --></br>  <!-- BLOG-POST-LIST:END --> | [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=anuvindhs)](https://github.com/gazf/github-readme-twitter)  |
+|<!-- BLOG-POST-LIST:START -->
+- [Hub for log4j vulnerability based information CVE-2021-44228 &lpar;how to&rpar;](https://ictpro.co.nz/hub-for-log4j-vulnerability-based-information-cve-2021-44228-how-to/?utm_source=rss&utm_medium=rss&utm_campaign=hub-for-log4j-vulnerability-based-information-cve-2021-44228-how-to)
+- [How to Send AWS Notifications &lpar;AWS SNS&rpar; to Microsoft Teams​](https://ictpro.co.nz/how-to-send-aws-notifications-aws-sns-to-microsoft-teams/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-send-aws-notifications-aws-sns-to-microsoft-teams)
+- [An Intro to Amazon Simple Notification Service &lpar;SNS&rpar;](https://ictpro.co.nz/an-intro-to-amazon-simple-notification-service-sns/?utm_source=rss&utm_medium=rss&utm_campaign=an-intro-to-amazon-simple-notification-service-sns)
+- [Introduction to AWS Config](https://ictpro.co.nz/introduction-to-aws-config/?utm_source=rss&utm_medium=rss&utm_campaign=introduction-to-aws-config)
+- [AWS Fargate – A Serverless Compute Engine for containers​](https://ictpro.co.nz/aws-fargate-a-serverless-compute-engine-for-containers%e2%80%8b/?utm_source=rss&utm_medium=rss&utm_campaign=aws-fargate-a-serverless-compute-engine-for-containers%25e2%2580%258b)
+<!-- BLOG-POST-LIST:END --> | [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=anuvindhs)](https://github.com/gazf/github-readme-twitter)  |
 
 
 #### 📝 Github Status
