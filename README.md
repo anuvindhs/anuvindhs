@@ -6,17 +6,15 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anuvindhs)  [![Website](https://img.shields.io/website?label=Community&up_message=ictpro.co.nz&url=https%3A%2F%2Fictpro.co.nz)](https://ictpro.co.nz)
 
- <!-- retro visitor counter -->
- <p align="right"> 
-  <b>You are Visitor number  -   </b> <img src="https://profile-counter.glitch.me/anuvindhs/count.svg" />
- </p>
 
 ## Hi there 👋
 ----
 I **love** nerding out about Cloud Computing, so don't hesitate to reach out!</br>
 💬 Ask me about Cloud Computing , DevOPS, Cyber Security </br>
 📫 Reach me on: [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anuvindhs)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://whttps//www.linkedin.com/in/anuvindhs)
+
 </br>
+
 [![anuvindh's github trophy](https://github-profile-trophy.vercel.app/?username=anuvindhs&row=1)](https://github.com/anuvindhs/)
 
 ###  👨‍💻 Technical Skills
