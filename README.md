@@ -26,11 +26,11 @@ I **love** nerding out about Cloud Computing, so don't hesitate to reach out!</b
 #### 📘 Latest Blog posts
 ----
 <!-- BLOG-POST-LIST:START -->
+- [How to create Gluster FS on Cloud – Day4](https://ictpro.co.nz/how-to-create-gluster-fs-on-cloud-day4/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-gluster-fs-on-cloud-day4)
 - [What are Security groups, the unsung hero – Day 3](https://ictpro.co.nz/what-are-security-groups-the-unsung-hero/?utm_source=rss&utm_medium=rss&utm_campaign=what-are-security-groups-the-unsung-hero)
 - [How to Set up an everyday alert for your AWS usage bill – Day 2](https://ictpro.co.nz/how-to-set-up-an-everyday-alert-for-your-aws-usage-bill-day-2/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-set-up-an-everyday-alert-for-your-aws-usage-bill-day-2)
 - [How to send 62000 emails for free using AMAZON SES – Day 1](https://ictpro.co.nz/how-to-send-62000-emails-for-free-using-amazon-ses/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-send-62000-emails-for-free-using-amazon-ses)
 - [Hub for log4j vulnerability based information CVE-2021-44228 &lpar;how to&rpar;](https://ictpro.co.nz/hub-for-log4j-vulnerability-based-information-cve-2021-44228-how-to/?utm_source=rss&utm_medium=rss&utm_campaign=hub-for-log4j-vulnerability-based-information-cve-2021-44228-how-to)
-- [How to Send AWS Notifications &lpar;AWS SNS&rpar; to Microsoft Teams​](https://ictpro.co.nz/how-to-send-aws-notifications-aws-sns-to-microsoft-teams/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-send-aws-notifications-aws-sns-to-microsoft-teams)
 <!-- BLOG-POST-LIST:END --> 
 
 #### 📟Tweets
