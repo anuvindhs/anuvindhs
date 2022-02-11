@@ -26,11 +26,11 @@ I **love** nerding out about Cloud Computing, so don't hesitate to reach out!</b
 #### 📘 Latest Blog posts
 ----
 <!-- BLOG-POST-LIST:START -->
+- [How to Stop and Start instances using the AWS Instance Scheduler – STOPINATOR -100 days of cloud: Day 6](https://ictpro.co.nz/how-to-stop-and-start-instances-using-the-aws-instance-scheduler-stopinator-100-days-of-cloud-day-6/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-stop-and-start-instances-using-the-aws-instance-scheduler-stopinator-100-days-of-cloud-day-6)
 - [How to deliver content via Content Delivery Network – Amazon CloudFront – 100 days of cloud: Day 5](https://ictpro.co.nz/how-to-deliver-content-via-content-delivery-network-amazon-cloudfront-day-5/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-deliver-content-via-content-delivery-network-amazon-cloudfront-day-5)
 - [How to create Gluster FS on Cloud -100 days of cloud:  Day4](https://ictpro.co.nz/how-to-create-gluster-fs-on-cloud-day4/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-gluster-fs-on-cloud-day4)
 - [What are Security groups, the unsung hero – 100 days of cloud: Day 3](https://ictpro.co.nz/what-are-security-groups-the-unsung-hero/?utm_source=rss&utm_medium=rss&utm_campaign=what-are-security-groups-the-unsung-hero)
 - [How to Set up an everyday alert for your AWS usage bill – 100 days of cloud: Day 2](https://ictpro.co.nz/how-to-set-up-an-everyday-alert-for-your-aws-usage-bill-day-2/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-set-up-an-everyday-alert-for-your-aws-usage-bill-day-2)
-- [How to send 62000 emails for free using AMAZON SES – 100 days of cloud: Day 1](https://ictpro.co.nz/how-to-send-62000-emails-for-free-using-amazon-ses/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-send-62000-emails-for-free-using-amazon-ses)
 <!-- BLOG-POST-LIST:END --> 
 
 #### 📟Tweets
