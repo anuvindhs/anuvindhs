@@ -26,11 +26,11 @@ I **love** nerding out about Cloud Computing, so don't hesitate to reach out!</b
 #### 📘 Latest Blog posts
 ----
 <!-- BLOG-POST-LIST:START -->
+- [What are the Strategies and Tools to Perform Large-Scale Migrations: Part II – 100 days of Cloud: Day 9](https://ictpro.co.nz/what-are-the-strategies-and-tools-to-perform-large-scale-migrations-part-ii-100-days-of-cloud-day-9/?utm_source=rss&utm_medium=rss&utm_campaign=what-are-the-strategies-and-tools-to-perform-large-scale-migrations-part-ii-100-days-of-cloud-day-9)
 - [What are the Strategies and Tools to Perform Large-Scale Migrations: Part I 100 days of Cloud: Day 8](https://ictpro.co.nz/what-are-the-strategies-and-tools-to-perform-large-scale-migrations-part-i/?utm_source=rss&utm_medium=rss&utm_campaign=what-are-the-strategies-and-tools-to-perform-large-scale-migrations-part-i)
 - [How to Stop and Start EC2 instances at predefined times Using Lambda and EventBridge – 100 days of cloud: Day 7](https://ictpro.co.nz/how-to-stop-and-start-ec2-instances-at-predefined-times-using-lambda-and-eventbridge-100-days-of-cloud-day-7/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-stop-and-start-ec2-instances-at-predefined-times-using-lambda-and-eventbridge-100-days-of-cloud-day-7)
 - [How to Stop and Start instances using the AWS Instance Scheduler – STOPINATOR -100 days of cloud: Day 6](https://ictpro.co.nz/how-to-stop-and-start-instances-using-the-aws-instance-scheduler-stopinator-100-days-of-cloud-day-6/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-stop-and-start-instances-using-the-aws-instance-scheduler-stopinator-100-days-of-cloud-day-6)
 - [How to deliver content via Content Delivery Network – Amazon CloudFront – 100 days of cloud: Day 5](https://ictpro.co.nz/how-to-deliver-content-via-content-delivery-network-amazon-cloudfront-day-5/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-deliver-content-via-content-delivery-network-amazon-cloudfront-day-5)
-- [How to create Gluster FS on Cloud -100 days of cloud:  Day4](https://ictpro.co.nz/how-to-create-gluster-fs-on-cloud-day4/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-gluster-fs-on-cloud-day4)
 <!-- BLOG-POST-LIST:END --> 
 
 #### 📟Tweets
