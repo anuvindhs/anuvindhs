@@ -26,11 +26,11 @@ I **love** nerding out about Cloud Computing, so don't hesitate to reach out!</b
 #### 📘 Latest Blog posts
 ----
 <!-- BLOG-POST-LIST:START -->
-- [How to Automate AWS EC2 Instance Backups – Amazon Data Lifecycle Manager Step by step – 100 days of Cloud: Day 9](https://ictpro.co.nz/how-to-automate-aws-ec2-instance-backups-amazon-data-lifecycle-manager-step-by-step/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-automate-aws-ec2-instance-backups-amazon-data-lifecycle-manager-step-by-step)
+- [How to monitor your server with CloudWatch – 100 days of Cloud: Day 11](https://ictpro.co.nz/how-to-monitor-your-server-with-cloudwatch-100-days-of-cloud-day-11/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-monitor-your-server-with-cloudwatch-100-days-of-cloud-day-11)
+- [How to Automate AWS EC2 Instance Backups – Amazon Data Lifecycle Manager Step by step – 100 days of Cloud: Day 10](https://ictpro.co.nz/how-to-automate-aws-ec2-instance-backups-amazon-data-lifecycle-manager-step-by-step/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-automate-aws-ec2-instance-backups-amazon-data-lifecycle-manager-step-by-step)
 - [What are the Strategies and Tools to Perform Large-Scale Migrations: Part II – 100 days of Cloud: Day 9](https://ictpro.co.nz/what-are-the-strategies-and-tools-to-perform-large-scale-migrations-part-ii-100-days-of-cloud-day-9/?utm_source=rss&utm_medium=rss&utm_campaign=what-are-the-strategies-and-tools-to-perform-large-scale-migrations-part-ii-100-days-of-cloud-day-9)
 - [What are the Strategies and Tools to Perform Large-Scale Migrations: Part I 100 days of Cloud: Day 8](https://ictpro.co.nz/what-are-the-strategies-and-tools-to-perform-large-scale-migrations-part-i/?utm_source=rss&utm_medium=rss&utm_campaign=what-are-the-strategies-and-tools-to-perform-large-scale-migrations-part-i)
 - [How to Stop and Start EC2 instances at predefined times Using Lambda and EventBridge – 100 days of cloud: Day 7](https://ictpro.co.nz/how-to-stop-and-start-ec2-instances-at-predefined-times-using-lambda-and-eventbridge-100-days-of-cloud-day-7/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-stop-and-start-ec2-instances-at-predefined-times-using-lambda-and-eventbridge-100-days-of-cloud-day-7)
-- [How to Stop and Start instances using the AWS Instance Scheduler – STOPINATOR -100 days of cloud: Day 6](https://ictpro.co.nz/how-to-stop-and-start-instances-using-the-aws-instance-scheduler-stopinator-100-days-of-cloud-day-6/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-stop-and-start-instances-using-the-aws-instance-scheduler-stopinator-100-days-of-cloud-day-6)
 <!-- BLOG-POST-LIST:END --> 
 
 #### 📟Tweets
