@@ -26,11 +26,11 @@ I **love** nerding out about Cloud Computing, so don't hesitate to reach out!</b
 #### 📘 Latest Blog posts
 ----
 <!-- BLOG-POST-LIST:START -->
+- [DevOps- How to Implement CI-CD with AWS in 5 mins for your static website – 100 days of Cloud: Day 13](https://ictpro.co.nz/devops-how-to-implement-ci-cd-with-aws-in-5-mins-for-your-static-website-100-days-of-cloud-day-13/?utm_source=rss&utm_medium=rss&utm_campaign=devops-how-to-implement-ci-cd-with-aws-in-5-mins-for-your-static-website-100-days-of-cloud-day-13)
 - [How to Monitor unauthorized SSH attempts on your server &amp; get email Alert  – 100 days of Cloud: Day 12](https://ictpro.co.nz/how-to-monitor-unauthorized-ssh-attempts-on-your-server-get-email-alert-100-days-of-cloud-day-12/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-monitor-unauthorized-ssh-attempts-on-your-server-get-email-alert-100-days-of-cloud-day-12)
 - [How to monitor your server with CloudWatch – 100 days of Cloud: Day 11](https://ictpro.co.nz/how-to-monitor-your-server-with-cloudwatch-100-days-of-cloud-day-11/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-monitor-your-server-with-cloudwatch-100-days-of-cloud-day-11)
 - [How to Automate AWS EC2 Instance Backups – Amazon Data Lifecycle Manager Step by step – 100 days of Cloud: Day 10](https://ictpro.co.nz/how-to-automate-aws-ec2-instance-backups-amazon-data-lifecycle-manager-step-by-step/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-automate-aws-ec2-instance-backups-amazon-data-lifecycle-manager-step-by-step)
 - [What are the Strategies and Tools to Perform Large-Scale Migrations: Part II – 100 days of Cloud: Day 9](https://ictpro.co.nz/what-are-the-strategies-and-tools-to-perform-large-scale-migrations-part-ii-100-days-of-cloud-day-9/?utm_source=rss&utm_medium=rss&utm_campaign=what-are-the-strategies-and-tools-to-perform-large-scale-migrations-part-ii-100-days-of-cloud-day-9)
-- [What are the Strategies and Tools to Perform Large-Scale Migrations: Part I 100 days of Cloud: Day 8](https://ictpro.co.nz/what-are-the-strategies-and-tools-to-perform-large-scale-migrations-part-i/?utm_source=rss&utm_medium=rss&utm_campaign=what-are-the-strategies-and-tools-to-perform-large-scale-migrations-part-i)
 <!-- BLOG-POST-LIST:END --> 
 
 #### 📟Tweets
