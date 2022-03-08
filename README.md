@@ -26,11 +26,11 @@ I **love** nerding out about Cloud Computing, so don't hesitate to reach out!</b
 #### 📘 Latest Blog posts
 ----
 <!-- BLOG-POST-LIST:START -->
+- [3 Ways to geo-restrict your App](https://ictpro.co.nz/3-ways-to-geo-restrict-your-app/?utm_source=rss&utm_medium=rss&utm_campaign=3-ways-to-geo-restrict-your-app)
 - [GFS-Moo: Install Moodle, GlusterFS, LAMP on Cloud 100 days of Cloud: Day 17](https://ictpro.co.nz/gfs-moo-install-moodle-glusterfs-lamp-on-cloud-100-days-of-cloud-day-17/?utm_source=rss&utm_medium=rss&utm_campaign=gfs-moo-install-moodle-glusterfs-lamp-on-cloud-100-days-of-cloud-day-17)
 - [How to secure amazon Ec2 with Amazon Inspector – Automated  vulnerability management – 100 days of Cloud: Day 16](https://ictpro.co.nz/how-to-secure-amazon-ec2-with-amazon-inspector-automated-vulnerability-management-100-days-of-cloud-day-16/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-secure-amazon-ec2-with-amazon-inspector-automated-vulnerability-management-100-days-of-cloud-day-16)
 - [How to buy a domain with route 53? – 100 days of Cloud: Day 15](https://ictpro.co.nz/how-to-buy-a-domain-with-route-53-100-days-of-cloud-day-15/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-buy-a-domain-with-route-53-100-days-of-cloud-day-15)
 - [How to secure Amazon S3? Policing with Amazon Macie – Security &amp; Compliance – 100 days of Cloud: Day 14](https://ictpro.co.nz/how-to-secure-amazon-s3-policing-with-amazon-macie-security-compliance-100-days-of-cloud-day-14/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-secure-amazon-s3-policing-with-amazon-macie-security-compliance-100-days-of-cloud-day-14)
-- [DevOps- How to Implement CI-CD with AWS in 5 mins for your static website – 100 days of Cloud: Day 13](https://ictpro.co.nz/devops-how-to-implement-ci-cd-with-aws-in-5-mins-for-your-static-website-100-days-of-cloud-day-13/?utm_source=rss&utm_medium=rss&utm_campaign=devops-how-to-implement-ci-cd-with-aws-in-5-mins-for-your-static-website-100-days-of-cloud-day-13)
 <!-- BLOG-POST-LIST:END --> 
 
 #### 📟Tweets
