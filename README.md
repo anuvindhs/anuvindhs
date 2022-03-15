@@ -26,7 +26,7 @@ I **love** nerding out about Cloud Computing, so don't hesitate to reach out!</b
 #### 📘 Latest Blog posts
 ----
 <!-- BLOG-POST-LIST:START -->
-- [rss test 3](https://ictpro.co.nz/rss-test-3/?utm_source=rss&utm_medium=rss&utm_campaign=rss-test-3)
+- [rss feed test 3](https://ictpro.co.nz/rss-feed-test-3/?utm_source=rss&utm_medium=rss&utm_campaign=rss-feed-test-3)
 - [All about terraform Modules – Create &amp; Publish your own modules – 100 days of Cloud: Day 21](https://ictpro.co.nz/all-about-terraform-modules-create-publish-your-own-modules-100-days-of-cloud-day-21/?utm_source=rss&utm_medium=rss&utm_campaign=all-about-terraform-modules-create-publish-your-own-modules-100-days-of-cloud-day-21)
 - [Building your first e-Learning Platform for free – 100 days of Cloud: Day 20](https://ictpro.co.nz/building-your-first-e-learning-platform-for-free-100-days-of-cloud-day-20/?utm_source=rss&utm_medium=rss&utm_campaign=building-your-first-e-learning-platform-for-free-100-days-of-cloud-day-20)
 - [3 Ways to geo-restrict your App 100 days of Cloud: Day 19](https://ictpro.co.nz/3-ways-to-geo-restrict-your-app/?utm_source=rss&utm_medium=rss&utm_campaign=3-ways-to-geo-restrict-your-app)
