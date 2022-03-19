@@ -26,11 +26,11 @@ I **love** nerding out about Cloud Computing, so don't hesitate to reach out!</b
 #### 📘 Latest Blog posts
 ----
 <!-- BLOG-POST-LIST:START -->
+- [How to Build your Golden Image using packer for Terraform– 100 days of Cloud: Day 21](https://ictpro.co.nz/how-to-build-your-golden-image-using-packer-for-terraform-100-days-of-cloud-day-21/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-build-your-golden-image-using-packer-for-terraform-100-days-of-cloud-day-21)
 - [All about terraform Modules – how to Create &amp; Publish your own modules – 100 days of Cloud: Day 21](https://ictpro.co.nz/all-about-terraform-modules-create-publish-your-own-modules-100-days-of-cloud-day-21/?utm_source=rss&utm_medium=rss&utm_campaign=all-about-terraform-modules-create-publish-your-own-modules-100-days-of-cloud-day-21)
 - [Building your first e-Learning Platform for free – 100 days of Cloud: Day 20](https://ictpro.co.nz/building-your-first-e-learning-platform-for-free-100-days-of-cloud-day-20/?utm_source=rss&utm_medium=rss&utm_campaign=building-your-first-e-learning-platform-for-free-100-days-of-cloud-day-20)
 - [3 Ways to geo-restrict your App 100 days of Cloud: Day 19](https://ictpro.co.nz/3-ways-to-geo-restrict-your-app/?utm_source=rss&utm_medium=rss&utm_campaign=3-ways-to-geo-restrict-your-app)
 - [GFS-Moo: Install Moodle, GlusterFS, LAMP on Cloud 100 days of Cloud: Day 17](https://ictpro.co.nz/gfs-moo-install-moodle-glusterfs-lamp-on-cloud-100-days-of-cloud-day-17/?utm_source=rss&utm_medium=rss&utm_campaign=gfs-moo-install-moodle-glusterfs-lamp-on-cloud-100-days-of-cloud-day-17)
-- [How to secure amazon Ec2 with Amazon Inspector – Automated  vulnerability management – 100 days of Cloud: Day 16](https://ictpro.co.nz/how-to-secure-amazon-ec2-with-amazon-inspector-automated-vulnerability-management-100-days-of-cloud-day-16/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-secure-amazon-ec2-with-amazon-inspector-automated-vulnerability-management-100-days-of-cloud-day-16)
 <!-- BLOG-POST-LIST:END --> 
 
 #### 📟Tweets
