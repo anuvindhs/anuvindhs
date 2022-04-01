@@ -26,11 +26,11 @@ I **love** nerding out about Cloud Computing, so don't hesitate to reach out!</b
 #### 📘 Latest Blog posts
 ----
 <!-- BLOG-POST-LIST:START -->
+- [The THREAT HUNTER of your Cloud](https://ictpro.co.nz/the-threat-hunter-of-your-cloud/?utm_source=rss&utm_medium=rss&utm_campaign=the-threat-hunter-of-your-cloud)
 - [How to secure Load Balancer – 100 days of Cloud: Day 24](https://ictpro.co.nz/how-to-secure-load-balancer-100-days-of-cloud-day-24/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-secure-load-balancer-100-days-of-cloud-day-24)
 - [How to Deploy IAC with your secrets in Terraform Vault – 100 days of Cloud: Day 23](https://ictpro.co.nz/how-to-deploy-iac-with-your-secrets-in-terraform-vault-100-days-of-cloud-day-23/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-deploy-iac-with-your-secrets-in-terraform-vault-100-days-of-cloud-day-23)
 - [How to Build your Golden Image using packer for Terraform– 100 days of Cloud: Day 22](https://ictpro.co.nz/how-to-build-your-golden-image-using-packer-for-terraform-100-days-of-cloud-day-22/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-build-your-golden-image-using-packer-for-terraform-100-days-of-cloud-day-22)
 - [All about terraform Modules – how to Create &amp; Publish your own modules – 100 days of Cloud: Day 21](https://ictpro.co.nz/all-about-terraform-modules-create-publish-your-own-modules-100-days-of-cloud-day-21/?utm_source=rss&utm_medium=rss&utm_campaign=all-about-terraform-modules-create-publish-your-own-modules-100-days-of-cloud-day-21)
-- [Building your first e-Learning Platform for free – 100 days of Cloud: Day 20](https://ictpro.co.nz/building-your-first-e-learning-platform-for-free-100-days-of-cloud-day-20/?utm_source=rss&utm_medium=rss&utm_campaign=building-your-first-e-learning-platform-for-free-100-days-of-cloud-day-20)
 <!-- BLOG-POST-LIST:END --> 
 
 #### 📟Tweets
