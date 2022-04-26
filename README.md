@@ -26,11 +26,11 @@ I **love** nerding out about Cloud Computing, so don't hesitate to reach out!</b
 #### 📘 Latest Blog posts
 ----
 <!-- BLOG-POST-LIST:START -->
+- [How to setup Auto-scaling, create one for your app in five mins : 100 days of Cloud: Day 28](https://ictpro.co.nz/how-to-setup-auto-scaling-create-one-for-your-app-in-five-mins-100-days-of-cloud-day-28/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-setup-auto-scaling-create-one-for-your-app-in-five-mins-100-days-of-cloud-day-28)
 - [Get your 10 Minutes revision note to Pass Terraform Exam : 100 days of Cloud: Day 27](https://ictpro.co.nz/get-your-10-minutes-revision-note-to-pass-terraform-exam-100-days-of-cloud-day-27/?utm_source=rss&utm_medium=rss&utm_campaign=get-your-10-minutes-revision-note-to-pass-terraform-exam-100-days-of-cloud-day-27)
 - [How to setup Load Balancer in two Minutes :– 100 days of Cloud: Day 26](https://ictpro.co.nz/how-to-setup-load-balancer-in-two-minutes-100-days-of-cloud-day-26/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-setup-load-balancer-in-two-minutes-100-days-of-cloud-day-26)
 - [The THREAT HUNTER of your Cloud – 100 days of Cloud: Day 25](https://ictpro.co.nz/the-threat-hunter-of-your-cloud/?utm_source=rss&utm_medium=rss&utm_campaign=the-threat-hunter-of-your-cloud)
 - [How to secure Load Balancer – 100 days of Cloud: Day 24](https://ictpro.co.nz/how-to-secure-load-balancer-100-days-of-cloud-day-24/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-secure-load-balancer-100-days-of-cloud-day-24)
-- [How to Deploy IAC with your secrets in Terraform Vault – 100 days of Cloud: Day 23](https://ictpro.co.nz/how-to-deploy-iac-with-your-secrets-in-terraform-vault-100-days-of-cloud-day-23/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-deploy-iac-with-your-secrets-in-terraform-vault-100-days-of-cloud-day-23)
 <!-- BLOG-POST-LIST:END --> 
 
 #### 📟Tweets
