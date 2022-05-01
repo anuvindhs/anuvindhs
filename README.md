@@ -12,7 +12,7 @@ I **love** nerding out about Cloud Computing, so don't hesitate to reach out!</b
 💬 Ask me about Cloud Computing , DevOPS, Cyber Security </br>
 📫 Reach me on: [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anuvindhs)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://whttps//www.linkedin.com/in/anuvindhs)
 
-</br>
+</br> 
 
 [![anuvindh's github trophy](https://github-profile-trophy.vercel.app/?username=anuvindhs&row=1)](https://github.com/anuvindhs/)
 
