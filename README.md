@@ -4,8 +4,7 @@
 <img width=”200" height=”200" src=./assets/banner5.gif alt=”my banner”>
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=anuvindhs)  [![Website](https://img.shields.io/website?label=Community&up_message=ictpro.co.nz&url=https%3A%2F%2Fictpro.co.nz)](https://ictpro.co.nz)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=anuvindhs)  [![Website](https://img.shields.io/badge/Blogs-iCTPro.co.nz-blue)](https://ictpro.co.nz) 
 
 ## Hi there 👋
 ----
