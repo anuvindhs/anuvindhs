@@ -4,8 +4,7 @@
 <img width=”200" height=”200" src=./assets/banner5.gif alt=”my banner”>
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=anuvindhs)  [![Website](https://img.shields.io/website?label=Community&up_message=ictpro.co.nz&url=https%3A%2F%2Fictpro.co.nz)](https://ictpro.co.nz)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=anuvindhs)  [![Website](https://img.shields.io/badge/Blogs-iCTPro.co.nz-blue)](https://ictpro.co.nz) 
 
 ## Hi there 👋
 ----
@@ -21,14 +20,18 @@ I **love** nerding out about Cloud Computing, so don't hesitate to reach out!</b
 ------
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 
-</br>
+
 #### 📘 Latest Blog posts
 
 Check on **[iCTPro.co.nz](https://ictpro.co.nz)**
 
 ----
 <!-- BLOG-POST-LIST:START -->
-
+- [A Git cheat sheet – $get git](https://dev.to/aws-builders/a-git-cheat-sheet-get-git-2jm3)
+- [Auto-scaling : Setup one for your app in five mins](https://dev.to/aws-builders/how-to-setup-auto-scaling-for-your-app-in-5-mins-12dn)
+- [10 Minutes revision note to Pass Terraform Exam](https://dev.to/aws-builders/10-minutes-revision-note-to-pass-terraform-exam-3de6)
+- [Load Balancer - Setup One in two Minutes](https://dev.to/aws-builders/load-balancer-setup-one-in-two-minutes-1c21)
+- [The THREAT HUNTER of your Cloud - Amazon Detective](https://dev.to/aws-builders/the-threat-hunter-of-your-cloud-36me)
 <!-- BLOG-POST-LIST:END --> 
 
 #### 📟Tweets
