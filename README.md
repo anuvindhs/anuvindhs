@@ -27,11 +27,11 @@ Check on **[iCTPro.co.nz](https://ictpro.co.nz)**
 
 ----
 <!-- BLOG-POST-LIST:START -->
+- [Deploy Containerized Applications with ECS](https://dev.to/aws-builders/deploy-containerized-applications-with-ecs-55dc)
 - [Lets talk a bit about ISO/IEC 27001](https://dev.to/aws-builders/lets-talk-a-bit-about-isoiec-27001-1gpl)
 - [A Git cheat sheet – $get git](https://dev.to/aws-builders/a-git-cheat-sheet-get-git-2jm3)
 - [Auto-scaling : Setup one for your app in five mins](https://dev.to/aws-builders/how-to-setup-auto-scaling-for-your-app-in-5-mins-12dn)
 - [10 Minutes revision note to Pass Terraform Exam](https://dev.to/aws-builders/10-minutes-revision-note-to-pass-terraform-exam-3de6)
-- [Load Balancer - Setup One in two Minutes](https://dev.to/aws-builders/load-balancer-setup-one-in-two-minutes-1c21)
 <!-- BLOG-POST-LIST:END --> 
 
 #### 📟Tweets
