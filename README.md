@@ -4,7 +4,16 @@
 <img width=”200" height=”200" src=./assets/banner5.gif alt=”my banner”>
 </p>
 
+
+
+<div style="text-align: center">
+
+![Visitor Count](https://profile-counter.glitch.me/anuvindhs/count.svg) 
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anuvindhs)  [![Website](https://img.shields.io/badge/Blogs-iCTPro.co.nz-blue)](https://ictpro.co.nz) 
+
+</div>
+
 
 ## Hi there 👋
 ![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
