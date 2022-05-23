@@ -7,11 +7,10 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anuvindhs)  [![Website](https://img.shields.io/badge/Blogs-iCTPro.co.nz-blue)](https://ictpro.co.nz) 
 
 ## Hi there 👋
-----
+![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
 I **love** nerding out about Cloud Computing, so don't hesitate to reach out!</br>
-💬 Ask me about Cloud Computing , DevOPS, Cyber Security </br>
-📫 Reach me on: [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anuvindhs)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://whttps//www.linkedin.com/in/anuvindhs)
-
+ **Ask me about** ☁️AWS Cloud Computing ,👨‍💻 DevOPS, 🛡️ Cyber Security </br>
+📫 Reach me on: <a href="https://twitter.com/anuvindhs"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://www.linkedin.com/in/anuvindhs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://dev.to/anuvindhs"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </br> 
 
 [![anuvindh's github trophy](https://github-profile-trophy.vercel.app/?username=anuvindhs&row=1)](https://github.com/anuvindhs/)
