@@ -6,13 +6,8 @@
 
 
 
-<div style="text-align: center">
-
-![Visitor Count](https://profile-counter.glitch.me/anuvindhs/count.svg) 
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anuvindhs)  [![Website](https://img.shields.io/badge/Blogs-iCTPro.co.nz-blue)](https://ictpro.co.nz) 
 
-</div>
 
 
 ## Hi there 👋
