@@ -30,11 +30,11 @@ Check on **[iCTPro.co.nz](https://ictpro.co.nz)**
 
 ----
 <!-- BLOG-POST-LIST:START -->
+- [Ansible For Everyone &lpar;Ansible Playbooks&rpar; - Part 3](https://dev.to/aws-builders/ansible-for-everyone-ansible-playbooks-part-3-2dgj)
 - [Ansible For Everyone&lpar;Practical&rpar; - Part 2](https://dev.to/aws-builders/ansible-for-everyonepractical-part-2-58a5)
 - [Ansible For Everyone - Part 1](https://dev.to/aws-builders/ansible-for-everyone-part-1-5998)
 - [Deploy Containerized Applications with ECS](https://dev.to/aws-builders/deploy-containerized-applications-with-ecs-55dc)
 - [Lets talk a bit about ISO/IEC 27001](https://dev.to/aws-builders/lets-talk-a-bit-about-isoiec-27001-1gpl)
-- [A Git cheat sheet – $get git](https://dev.to/aws-builders/a-git-cheat-sheet-get-git-2jm3)
 <!-- BLOG-POST-LIST:END --> 
 
 #### 📟Tweets
