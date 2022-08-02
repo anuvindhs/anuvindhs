@@ -30,7 +30,7 @@ Check on **[iCTPro.co.nz](https://ictpro.co.nz)**
 
 ----
 <!-- BLOG-POST-LIST:START -->
-- [Let&#39;s Nuke AWS - Account](https://dev.to/aws-builders/lets-nuke-aws-account-3j7k)
+- [Let&#39;s Nuke - AWS Account](https://dev.to/aws-builders/lets-nuke-aws-account-3j7k)
 - [DevOps on Amazon Web Services &lpar;AWS&rpar;](https://dev.to/aws-builders/devops-on-amazon-web-services-aws-2eln)
 - [Ansible For Everyone &lpar;Ansible Playbooks&rpar; - Part 3](https://dev.to/aws-builders/ansible-for-everyone-ansible-playbooks-part-3-2dgj)
 - [Ansible For Everyone&lpar;Practical&rpar; - Part 2](https://dev.to/aws-builders/ansible-for-everyonepractical-part-2-58a5)
