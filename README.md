@@ -6,7 +6,8 @@
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=anuvindhs)  [![Website](https://img.shields.io/badge/Blogs-iCTPro.co.nz-blue)](https://ictpro.co.nz) 
+![](https://komarev.com/ghpvc/?username=anuvindhs&color=blueviolet&abbreviated=true)
+[![Website](https://img.shields.io/badge/Blogs-iCTPro.co.nz-blue)](https://ictpro.co.nz)  [![Podcast](https://img.shields.io/badge/Podcast-nlsapodcast-blue)](https://youtube.com/@nlsapodcast)
 
 
 
