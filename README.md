@@ -1,7 +1,7 @@
 
 
 <p align=”center”>
-<img width=”200" height=”200" src=./assets/banner5.gif alt=”my banner”>
+<img width=”200" height=”200" src=./assets/banner6.gif alt=”my banner”>
 </p>
 
 
