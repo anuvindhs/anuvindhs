@@ -1,67 +1,143 @@
+<div align="center">
 
+# ANUVINDH SANKARAVILASAM
 
-<p align=”center”>
-<img width=”200" height=”200" src=./assets/banner6.gif alt=”my banner”>
-</p>
+### Chapter Lead – Institutional Cloud @ ANZ Bank · AI Engineering · Auckland, NZ
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anuvindhs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuvindhs/)
+[![Podcast](https://img.shields.io/badge/NLSA_Podcast-10K_Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@nlsapodcast)
+[![Blog](https://img.shields.io/badge/Blog-iCTPro.co.nz-1B4F8A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ictpro.co.nz)
+[![Profile Views](https://komarev.com/ghpvc/?username=anuvindhs&color=1B4F8A&style=for-the-badge&abbreviated=true)](https://github.com/anuvindhs)
 
+</div>
 
-![](https://komarev.com/ghpvc/?username=anuvindhs&color=blueviolet&abbreviated=true)
-[![Website](https://img.shields.io/badge/Blogs-iCTPro.co.nz-blue)](https://ictpro.co.nz)  [![Podcast](https://img.shields.io/badge/Podcast-nlsapodcast-blue)](https://youtube.com/@nlsapodcast)
+---
 
+## What I Actually Do
 
+I lead cloud platform engineering and AI transformation inside **ANZ Bank's Institutional Banking division** — one of New Zealand's most regulated Tier-1 banking environments.
 
-## Hi there 👋
-![line](https://cdn.discordapp.com/attachments/842741907720896512/842806312386428948/gif.gif)
-I **love** nerding out about Cloud Computing, so don't hesitate to reach out!</br>
- **Ask me about** ☁️AWS Cloud Computing ,👨‍💻 DevOPS, 🛡️ Cyber Security, 🤵🏻‍♂️ Leadership </br>
-- 📫 Reach me on: <a href="https://twitter.com/anuvindhs"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://www.linkedin.com/in/anuvindhs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://dev.to/anuvindhs"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+My teams span **New Zealand, Australia, Singapore, and India**. My mandate is simple: get AI out of experimentation and into production, embedded in real business workflows, with the governance to operate safely in a regulated bank.
 
-- 📄 Know about my experiences [iCTPro.co.nz](iCTPro.co.nz)
-- 👯 I’m looking to collaborate on [nlsa pocast](https://youtube.com/@nlsapodcast)
-</br>
+> *"Most people talk about AI transformation. I'm doing it inside the hardest environment possible — and then training the team to sustain it."*
 
-[![anuvindh's github trophy](https://github-profile-trophy.vercel.app/?username=anuvindhs&row=1)](https://github.com/anuvindhs/)
+---
 
-###  👨‍💻 Technical Skills
-------
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+## Current Focus Areas
 
+```
+🏦  AI in Regulated Banking     →  GenAI delivery with RBNZ compliance guardrails
+🤖  Agentic Frameworks          →  LLMs, RAG, embeddings, orchestration at enterprise scale  
+☁️  AWS Platform Engineering    →  Multi-account, multi-region institutional cloud
+⚡  Workforce Automation         →  n8n + AWS eliminating manual effort at scale
+🎓  Engineering Capability       →  Training distributed teams to build with AI
+📻  Thought Leadership           →  NLSA Podcast — NZ tech & business leaders
+```
 
-#### 📘 Latest Blog posts
+---
 
-Check on **[iCTPro.co.nz](https://ictpro.co.nz)**
-<p align="left">
-<a href="https://dev.to/anuvindhs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="anuvindhs" height="30" width="40" /></a>
-<a href="https://twitter.com/anuvindhs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuvindhs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anuvindhs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuvindhs" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nlsapodcast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nlsapodcast" height="30" width="40" /></a>
-<a href="/ictpro.co.nz/blogs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="ictpro.co.nz/blogs" height="30" width="40" /></a>
-</p>
+## Tech Stack
 
-----
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS_SAP_Certified-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### AI & Automation
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-GenAI-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-Associate-000000?style=for-the-badge&logo=github&logoColor=white)
+
+### DevOps & Security
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-Banking_Grade-red?style=for-the-badge)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
+
+## Certifications
+
+| Certification | Issuer | Level |
+|---|---|---|
+| ✅ AWS Solutions Architect | Amazon Web Services | **Professional** |
+| ✅ AWS Solutions Architect | Amazon Web Services | Associate |
+| ✅ AWS SysOps Administrator | Amazon Web Services | Associate |
+| ✅ AWS Academy Educator | Amazon Web Services | Certified |
+| ✅ Terraform Associate | HashiCorp | Associate |
+| ✅ Security+ | CompTIA | Certified |
+| ✅ GitHub Copilot | GitHub | Associate |
+| ✅ Organisational Leadership | Harvard Business School | 2024 |
+
+---
+
+## Selected Projects
+
+> ⚠️ Production banking systems cannot be open-sourced. Projects below reflect architecture patterns, tooling explorations, and public-facing work.
+
+### 🤖 AI & Automation
+- **Production RAG System** — Multi-tenant Retrieval-Augmented Generation on AWS Bedrock Knowledge Base + Bedrock Agent + Lambda (banking environment)
+- **Agentic Workflow Engine** — n8n + LLM orchestration for regulated banking process automation
+- **AI Workforce Automation** — Automated systems reducing manual effort and human error across institutional banking operations
+
+### ☁️ Cloud Architecture
+- **Multi-tenant SaaS on AWS** — RAG chatbot platform with Bedrock, Step Functions, and one-click tenant provisioning
+- **DevSecOps Pipelines** — Terraform-based IaC for production banking platforms (CI/CD, compliance, security gates)
+- **Institutional Cloud Platforms** — AWS architecture supporting distributed teams across NZ, AU, SG, IN
+
+### 📻 Community & Content
+- **[NLSA Podcast](https://youtube.com/@nlsapodcast)** — 10K+ subscribers · Interviewing NZ's senior tech and business leaders
+- **[iCTPro.co.nz](https://ictpro.co.nz)** — AWS & AI consulting, corporate training, and technical blog
+
+---
+
+## Latest Writing
+
+Check **[iCTPro.co.nz](https://ictpro.co.nz)** and **[dev.to/anuvindhs](https://dev.to/anuvindhs)**
+
 <!-- BLOG-POST-LIST:START -->
-- [AWS - Red Hat OpenShift for Everyone series &lpar; I - Intro&rpar;](https://dev.to/aws-builders/aws-red-hat-openshift-for-everyone-series-i-intro-3ib9)
+- [AWS - Red Hat OpenShift for Everyone series (I - Intro)](https://dev.to/aws-builders/aws-red-hat-openshift-for-everyone-series-i-intro-3ib9)
 - [Everything you should know as a Cloud Guru for Storage](https://dev.to/aws-builders/everything-you-should-know-as-a-cloud-guru-for-storage-3b15)
-- [Let&#39;s Nuke - AWS Account](https://dev.to/aws-builders/lets-nuke-aws-account-3j7k)
-- [DevOps on Amazon Web Services &lpar;AWS&rpar;](https://dev.to/aws-builders/devops-on-amazon-web-services-aws-2eln)
-- [Ansible For Everyone &lpar;Ansible Playbooks&rpar; - Part 3](https://dev.to/aws-builders/ansible-for-everyone-ansible-playbooks-part-3-2dgj)
-<!-- BLOG-POST-LIST:END --> 
+- [Let's Nuke - AWS Account](https://dev.to/aws-builders/lets-nuke-aws-account-3j7k)
+- [DevOps on Amazon Web Services (AWS)](https://dev.to/aws-builders/devops-on-amazon-web-services-aws-2eln)
+<!-- BLOG-POST-LIST:END -->
 
-#### 📟Tweets
-----
-<p align="left"> <a href="https://twitter.com/anuvindhs" target="blank"><img src="https://img.shields.io/twitter/follow/anuvindhs?logo=twitter&style=for-the-badge" alt="anuvindhs" /></a> </p>
+---
 
-### 👨🏻‍💻 Languages and Tools 
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+## GitHub Stats
 
-### 📝 Github Status
---------------
+<div align="center">
 
+![Anuvindh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuvindhs&hide=contribs,prs&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Anuvindhs Github Status](https://github-readme-stats.vercel.app/api?username=anuvindhs&hide=contribs,prs&show_icons=true&theme=dar)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuvindhs&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuvindhs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuvindhs&layout=compact&theme=dar)](https://github.com/anuvindhs)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuvindhs&theme=tokyonight&hide_border=true)](https://github.com/anuvindhs)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuvindhs&" alt="anuvindhs" /></p>
-<figure class="video_container">
+</div>
+
+---
+
+## Let's Connect
+
+I'm interested in conversations about:
+- **AI transformation in regulated financial services**
+- **Platform engineering at scale**
+- **Engineering leadership and team capability development**
+- **NZ tech community building** (always open to NLSA Podcast guests)
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anuvindhs/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anuvindhs)
+[![YouTube](https://img.shields.io/badge/NLSA_Podcast-Subscribe-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@nlsapodcast)
+
+</div>
+
+---
+
+<div align="center">
+<sub>📍 Auckland, New Zealand &nbsp;·&nbsp; 🏦 ANZ Bank &nbsp;·&nbsp; ☁️ AWS SAP Certified &nbsp;·&nbsp; 🤖 AI Engineering Leader</sub>
+</div>
