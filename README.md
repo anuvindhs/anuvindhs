@@ -5,7 +5,7 @@
 ### Chapter Lead – Institutional Cloud @ ANZ Bank · AI Engineering · Auckland, NZ
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anuvindhs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuvindhs/)
-[![Podcast](https://img.shields.io/badge/NLSA_Podcast-10K_Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@nlsapodcast)
+[![Podcast](https://img.shields.io/badge/NLSA_Podcast-10+K_Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@nlsapodcast)
 [![Blog](https://img.shields.io/badge/Blog-iCTPro.co.nz-1B4F8A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ictpro.co.nz)
 [![Profile Views](https://komarev.com/ghpvc/?username=anuvindhs&color=1B4F8A&style=for-the-badge&abbreviated=true)](https://github.com/anuvindhs)
 
